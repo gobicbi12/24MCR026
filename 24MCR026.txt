@@ -1,4 +1,4 @@
-Name: Gobinath M
-Class: MCA-A-1
-Reg no:24MCR026
-Favorite SubSject:SQL
+Name       : Gobinath M
+Department : MCA-A
+Register no:24MCR026
+Favorite Subject:SQL
